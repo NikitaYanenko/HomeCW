@@ -1,0 +1,19 @@
+[2025-06-10 00:40:43] ----- Banking simulation started -----
+[2025-06-10 00:40:43] Bank created with 2 operators
+[2025-06-10 00:40:44] Client 1 arrived
+[2025-06-10 00:40:44] Client service 1 started
+[2025-06-10 00:40:45] Client 2 arrived
+[2025-06-10 00:40:45] Client service 2 started
+[2025-06-10 00:40:46] Client 3 arrived
+[2025-06-10 00:40:46] Client service 1 completed
+[2025-06-10 00:40:46] Client service 3 started
+[2025-06-10 00:40:47] Client 4 arrived
+[2025-06-10 00:40:48] Client 5 arrived
+[2025-06-10 00:40:48] Client service 3 completed
+[2025-06-10 00:40:48] Client service 4 started
+[2025-06-10 00:40:49] Client service 2 completed
+[2025-06-10 00:40:49] Client service 5 started
+[2025-06-10 00:40:51] Client service 5 completed
+[2025-06-10 00:40:52] Client service 4 completed
+[2025-06-10 00:40:52] Total served: 5 clients
+[2025-06-10 00:40:52] ----- Banking simulation stopped -----
